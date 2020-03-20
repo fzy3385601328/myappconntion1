@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':myappconnction'
 rootProject.name='My Application1'
